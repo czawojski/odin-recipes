@@ -8,11 +8,8 @@ h1 {
   text-align: center;
 }
 
-a {
-  background-color: #2fd2cd;
-  color: black;
-  padding: 14px 25px;
+li {
+  color: #2fd2cd;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
 }
