@@ -16,5 +16,6 @@ h1 {
   margin: 12px;
   padding: 6px;
   color: ghostwhite;
+  display: inline-block;
 }
 
