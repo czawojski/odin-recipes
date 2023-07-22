@@ -12,11 +12,14 @@ h1 {
   text-align: center;
 }
 
+div.button {
+  align: center;
+}
+
 .button {
   margin: 16px;
   padding: 8px;
   color: cornflowerblue;
   display: block;
-  align: center;
 }
 
