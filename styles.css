@@ -12,8 +12,9 @@ h1 {
   text-align: center;
 }
 
-ul {
+.button {
   margin: 12px;
-  color: cornflowerblue;
+  padding: 6px;
+  color: ghostwhite;
 }
 
