@@ -13,9 +13,10 @@ h1 {
 }
 
 .button {
-  margin: 12px;
-  padding: 6px;
-  color: ghostwhite;
+  margin: 16px;
+  padding: 8px;
+  color: cornflowerblue;
   display: block;
+  align: center;
 }
 
